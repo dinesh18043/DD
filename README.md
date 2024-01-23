@@ -79,19 +79,18 @@ __Classification__
         * Used KNN - imputer to fill null values
         * Dropped all duplicates
     2. *Data visualization*
-   ![Rain Tomorrow vs. Rain Today](https://github.com/DhatchayaniL/DD/assets/88893048/9432afb3-3bd3-41e5-ad23-e497e47ac088)
         * Imbalanced dataset
         * Did over sampling
-      
-          
-          ![corr](https://github.com/DhatchayaniL/DD/assets/88893048/611d4cbe-b1ec-4257-9721-fdb67a6ddb68)
-
+        <p align="center">
+          <img src="https://github.com/DhatchayaniL/DD/assets/88893048/9432afb3-3bd3-41e5-ad23-e497e47ac088" width="400" alt="Rain Tomorrow vs. Rain Today">
+          <img src="https://github.com/DhatchayaniL/DD/assets/88893048/9f8a2c30-0459-44b7-b483-15b9a3d03a77" width="400" alt="Visualization 2">
+       </p>   
 
         * Min Temp and Max Temp are positively correlated 
         * Temp3pm and Temp9am are positively correlated
       
-          
-   ![after sampling](https://github.com/DhatchayaniL/DD/assets/88893048/9f8a2c30-0459-44b7-b483-15b9a3d03a77)
+        ![corr](https://github.com/DhatchayaniL/DD/assets/88893048/611d4cbe-b1ec-4257-9721-fdb67a6ddb68)     
+
 
 
     4. *Model Building*
@@ -123,6 +122,7 @@ __Classification__
     4. *Model Benckmarking*
         * sklearn accuracy - 96.9%
         * Custom code accuracy - 95.9%
+    ![ROC](https://github.com/DhatchayaniL/DD/assets/88893048/af8c4aee-89c8-4916-a376-d2e297c9d0fc)
 
 8. **Salary prediction - Ada boost classifier**
     1. *Data cleaning*
