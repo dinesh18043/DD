@@ -85,6 +85,7 @@ __Classification__
       
           
    ![after sampling](https://github.com/DhatchayaniL/DD/assets/88893048/9f8a2c30-0459-44b7-b483-15b9a3d03a77)
+
         * Min Temp and Max Temp are positively correlated 
         * Temp3pm and Temp9am are positively correlated
     4. *Model Building*
@@ -93,7 +94,7 @@ __Classification__
         * sklearn accuracy - 1.0%
         * Custom code accuracy - 1.0%
 
-6. **Email spam classification - Multinomial naive bayes**
+7. **Email spam classification - Multinomial naive bayes**
     1. *Data cleaning*
         * No null values
         * Dropped all duplicates
@@ -109,7 +110,7 @@ __Classification__
         * sklearn accuracy - 96.9%
         * Custom code accuracy - 95.9%
 
-7. **Salary prediction - Ada boost classifier**
+8. **Salary prediction - Ada boost classifier**
     1. *Data cleaning*
         * No null values
         * Dropped all duplicates
@@ -126,7 +127,7 @@ __Classification__
         * sklearn accuracy - 80%
         * Custom code accuracy - 74%
 
-8. **Salary prediction - Ada boost classifier**
+9. **Salary prediction - Ada boost classifier**
     1. *Data cleaning*
         * Had null values
         * Did iterative imputer
