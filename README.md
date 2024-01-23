@@ -41,14 +41,14 @@ Regression:
         * Total fare and fare are highly correlated
         * miscellaneous fees and surge_applied are highly correlated in correlation matrix.
       
-           ![lin](https://github.com/DhatchayaniL/DD/assets/88893048/481afef5-3b10-42f8-abe3-b2eb3b75b9b4)
+           
     3. Model Building
         * Linear regression
     4. Model Benckmarking
         * sklearn accuracy - 99%
         * Custom code accuracy - 99%
 
-    ![Linear Regression - Actual vs. Predicted Charges]("G:\\New folder\\Downloads\\pack_8\\pack_8\\dd\\dd\\lin.png")
+    ![lin](https://github.com/DhatchayaniL/DD/assets/88893048/481afef5-3b10-42f8-abe3-b2eb3b75b9b4)
 
 Classification
 
