@@ -47,6 +47,7 @@ __Regression:__
     4. *Model Benckmarking*
         * sklearn accuracy - 99%
         * Custom code accuracy - 99%
+          
 
     ![lin](https://github.com/DhatchayaniL/DD/assets/88893048/481afef5-3b10-42f8-abe3-b2eb3b75b9b4)
 
