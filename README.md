@@ -1,6 +1,6 @@
 Regression:
 
-1. Avocado price prediction - Decision tree regressor
+1. *Avocado price prediction - Decision tree regressor*
     1. Data cleaning
         * No null values
         * No duplicates
