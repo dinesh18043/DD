@@ -144,19 +144,28 @@ __Classification__
         * No null values
         * Dropped all duplicates
     2. *Data visualization*
+  
+       ![download](https://github.com/DhatchayaniL/DD/assets/88893048/2178b236-d0e0-468d-8fee-5dcd3a926d9f)
+  
+       
         * Imbalanced dataset
+      
+          ![download](https://github.com/DhatchayaniL/DD/assets/88893048/89ab916e-9976-4eb8-8897-c65ea1ec6864)    
+          
         * Did oversampling using Random sampler
         * Work class of self-emp-inc is higher
         * Doctorate people are higher in the dataset
         * In marital status married-civ-spouse is higher
         * U is the most repeted work in ham messages
-    3. *Model Building*
+    4. *Model Building*
         * Ada boost classifier
-    4. *Model Benckmarking*
+    5. *Model Benckmarking*
         * sklearn accuracy - 80%
         * Custom code accuracy - 74%
+      
+          ![download](https://github.com/DhatchayaniL/DD/assets/88893048/e104a843-7b2b-4dc9-9568-ce425cfd6a9d)
 
-9. **Movie hits prediction - XG boost classifier**
+10. **Movie hits prediction - XG boost classifier**
     1. *Data cleaning*
         * Had null values
         * Did iterative imputer
