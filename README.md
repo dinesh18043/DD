@@ -58,7 +58,9 @@ __Classification__
         * Dropped all duplicates
     2. *Data visualization*
         * There is no relation between v1 to v28 columns
+   ![correlation](https://github.com/DhatchayaniL/DD/assets/88893048/aebe3e2a-9f7c-4e5c-9ef4-9860fb504ea4)
         * Did principal component analysis and reduces its dimentionality which increases correlation between v1 to v28 columns
+   ![correlation after PCA](https://github.com/DhatchayaniL/DD/assets/88893048/b4c524d4-28f3-4bdc-a757-48f90689f93c)
         * Transaction amount is higher in 0 to 2000
         * Used robust scalar for normalization
    ![distribution plot](https://github.com/DhatchayaniL/DD/assets/88893048/4c4eeb04-4641-49c5-8724-09c8c1e58df9)
