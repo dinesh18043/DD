@@ -1,4 +1,4 @@
-Regression:
+__Regression:__
 
 1. **Avocado price prediction - Decision tree regressor**
     1. *Data cleaning*
