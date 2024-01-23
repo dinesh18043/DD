@@ -113,7 +113,10 @@ __Classification__
     2. *Data visualization*
         * Add 2 necessary columns
         * All columns are positively correlated
+          
           ![correlation](https://github.com/DhatchayaniL/DD/assets/88893048/5c98d2eb-8aaa-4950-8dc7-b656f22ee3e0)
+  
+          
         * Did stemming and lemmetization
         * Call is the most repeted work in spam messages
         * U is the most repeted work in ham messages
