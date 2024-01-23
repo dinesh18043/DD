@@ -80,9 +80,14 @@ __Classification__
         * Dropped all duplicates
     2. *Data visualization*
         * Imbalanced dataset
-        * Did over sampling
+        
         <p align="center">
           <img src="https://github.com/DhatchayaniL/DD/assets/88893048/9432afb3-3bd3-41e5-ad23-e497e47ac088" alt="Rain Tomorrow vs. Rain Today">
+        </p>
+  
+        * Did over sampling
+          
+       <p align="center">
           <img src="https://github.com/DhatchayaniL/DD/assets/88893048/9f8a2c30-0459-44b7-b483-15b9a3d03a77" alt="Visualization 2">
        </p>   
 
