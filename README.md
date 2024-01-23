@@ -135,7 +135,7 @@ __Classification__
         * sklearn accuracy - 80%
         * Custom code accuracy - 74%
 
-9. **Salary prediction - Ada boost classifier**
+9. **Movie hits prediction - XG boost classifier**
     1. *Data cleaning*
         * Had null values
         * Did iterative imputer
