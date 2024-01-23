@@ -6,6 +6,9 @@ __Regression:__
         * No duplicates
     2. *Data visualization*
         * Each and every columns are correlated
+          
+          ![pairplot](https://github.com/DhatchayaniL/DD/assets/88893048/085e775a-cb75-489e-9522-0fb8162823eb)
+          
         * There is a positive relation between 'total volume' and all the other columns.
         * All the other columns are also positively correlated with all the columns except the target column.
         * Total volume can go above 3 if the average price is in between 0.5 to 2
@@ -23,12 +26,15 @@ __Regression:__
         * Categorical columns - Imputed using Mode
         * Dropped all duplicates
     2. *Data visualization*
+
+          ![pairplot](https://github.com/DhatchayaniL/DD/assets/88893048/ead2e554-d7bb-4777-b06d-aadbf01037f3)
+       
         * Selling price is maximum in 50,000 to 3Lakhs
         * Fuel efficiency is maximum at 20 km/L
         * Dropped LPG and CNG from fuel type as it is very less.
-    3. *Model Building*
+    4. *Model Building*
         * Random forest regressor
-    4. *Model Benckmarking*
+    5. *Model Benckmarking*
         * sklearn accuracy - 81.4%
         * Custom code accuracy - 80.4%
 
@@ -118,7 +124,7 @@ __Classification__
   
           
         * Did stemming and lemmetization
-        * Call is the most repeted work in spam messages
+        * Call is the most repeated work in spam messages
         * U is the most repeted work in ham messages
       
    <p align="center">
