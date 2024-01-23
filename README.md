@@ -84,15 +84,23 @@ __Classification__
         * Did over sampling
       
           
-   ![after sampling](https://github.com/DhatchayaniL/DD/assets/88893048/9f8a2c30-0459-44b7-b483-15b9a3d03a77)
+          ![corr](https://github.com/DhatchayaniL/DD/assets/88893048/611d4cbe-b1ec-4257-9721-fdb67a6ddb68)
+
 
         * Min Temp and Max Temp are positively correlated 
         * Temp3pm and Temp9am are positively correlated
+      
+          
+   ![after sampling](https://github.com/DhatchayaniL/DD/assets/88893048/9f8a2c30-0459-44b7-b483-15b9a3d03a77)
+
+
     4. *Model Building*
         * Logistic regression
     5. *Model Benckmarking*
         * sklearn accuracy - 1.0%
         * Custom code accuracy - 1.0%
+
+    ![ROC](https://github.com/DhatchayaniL/DD/assets/88893048/3b3a7359-d58b-416f-bf7f-f4d3c9ee6421)
 
 7. **Email spam classification - Multinomial naive bayes**
     1. *Data cleaning*
