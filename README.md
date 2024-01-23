@@ -37,14 +37,15 @@ __Regression:__
         * No null values
         * Dropped all duplicates
     2. *Data visualization*
+   ![pairplot](https://github.com/DhatchayaniL/DD/assets/88893048/6bca7e3b-4574-4e81-9d9c-e31fd174d461)
         * Dropped distance_traveled and num_of_passengers as they are less correlated with other columns.
         * Total fare and fare are highly correlated
         * miscellaneous fees and surge_applied are highly correlated in correlation matrix.
    ![taxi_cor](https://github.com/DhatchayaniL/DD/assets/88893048/0df62a66-1ebc-4548-8bcd-ff9bf7a27ab6) 
            
-    3. *Model Building*
+    4. *Model Building*
         * Linear regression
-    4. *Model Benckmarking*
+    5. *Model Benckmarking*
         * sklearn accuracy - 99%
         * Custom code accuracy - 99%
           
