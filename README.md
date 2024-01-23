@@ -39,7 +39,7 @@ Regression:
     2. Data visualization
         * Dropped distance_traveled and num_of_passengers as they are less correlated with other columns.
         * Total fare and fare are highly correlated
-    ![Correlation using heatmap]("lin.png")
+    ![Correlation using heatmap]("DD/lin.png")
         * miscellaneous fees and surge_applied are highly correlated in correlation matrix.
     3. Model Building
         * Linear regression
