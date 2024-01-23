@@ -206,10 +206,10 @@ predictions = model.predict(X_test)
 
 **KNNClassifier (from dd.dd.credit_car_spam)**
 Usage:
-from dd.dd.credit_car_spam import KNNClassifier
-model = KNNClassifier(k=3)
-model.fit(X_train, y_train)
-predictions = model.predict(X_test)
+            from dd.dd.credit_car_spam import KNNClassifier
+            model = KNNClassifier(k=3)
+            model.fit(X_train, y_train)
+            predictions = model.predict(X_test)
 
 **RandomForestRegressor (from dd.dd.car_price_predict)**
 Usage:
