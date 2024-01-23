@@ -114,9 +114,9 @@ __Classification__
         * U is the most repeted work in ham messages
       
    <p align="center">
-            <img src="![download](https://github.com/DhatchayaniL/DD/assets/88893048/c2965974-7600-4d4b-bf1a-d48425248f68)" width="400" alt="Visualization 1">
-            <img src="![download](https://github.com/DhatchayaniL/DD/assets/88893048/8e5f1904-ebfa-49cb-a748-e5086ae4a431)" width="400" alt="Visualization 2">
-        </p>
+      <img src="https://github.com/DhatchayaniL/DD/assets/88893048/c2965974-7600-4d4b-bf1a-d48425248f68" width="400" alt="Visualization 1">
+      <img src="https://github.com/DhatchayaniL/DD/assets/88893048/8e5f1904-ebfa-49cb-a748-e5086ae4a431" width="400" alt="Visualization 2">
+   </p>
         
     3. *Model Building*
         * Multinomial naive bayes
