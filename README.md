@@ -82,6 +82,7 @@ __Classification__
    ![Rain Tomorrow vs. Rain Today](https://github.com/DhatchayaniL/DD/assets/88893048/9432afb3-3bd3-41e5-ad23-e497e47ac088)
         * Imbalanced dataset
         * Did over sampling
+   ![after sampling](https://github.com/DhatchayaniL/DD/assets/88893048/9f8a2c30-0459-44b7-b483-15b9a3d03a77)
         * Min Temp and Max Temp are positively correlated 
         * Temp3pm and Temp9am are positively correlated
     4. *Model Building*
