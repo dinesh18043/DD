@@ -40,7 +40,7 @@ Regression:
         * Dropped distance_traveled and num_of_passengers as they are less correlated with other columns.
         * Total fare and fare are highly correlated
         * miscellaneous fees and surge_applied are highly correlated in correlation matrix.
-      
+   ![taxi_cor](https://github.com/DhatchayaniL/DD/assets/88893048/0df62a66-1ebc-4548-8bcd-ff9bf7a27ab6) 
            
     3. Model Building
         * Linear regression
