@@ -79,13 +79,14 @@ __Classification__
         * Used KNN - imputer to fill null values
         * Dropped all duplicates
     2. *Data visualization*
+   ![Rain Tomorrow vs. Rain Today](https://github.com/DhatchayaniL/DD/assets/88893048/9432afb3-3bd3-41e5-ad23-e497e47ac088)
         * Imbalanced dataset
         * Did over sampling
         * Min Temp and Max Temp are positively correlated 
         * Temp3pm and Temp9am are positively correlated
-    3. *Model Building*
+    4. *Model Building*
         * Logistic regression
-    4. *Model Benckmarking*
+    5. *Model Benckmarking*
         * sklearn accuracy - 1.0%
         * Custom code accuracy - 1.0%
 
@@ -125,7 +126,7 @@ __Classification__
 8. **Salary prediction - Ada boost classifier**
     1. *Data cleaning*
         * Had null values
-        * Did iteratie imputer
+        * Did iterative imputer
         * Dropped all duplicates
     2. *Data visualization*
         * Movies with drama genre are higher
