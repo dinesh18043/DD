@@ -221,7 +221,7 @@ __Classification__
 
 **RandomForestRegressor (from dd.dd.car_price_predict)**
     Usage:
-            ```
+            ```python
             from dd.dd.car_price_predict import RandomForestRegressor
             model = RandomForestRegressor(n_estimators=100, max_depth=5, min_samples_split=2, min_samples_leaf=1)
             model.fit(X_train, y_train)
