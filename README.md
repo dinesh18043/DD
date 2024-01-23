@@ -69,6 +69,7 @@ __Classification__
     4. *Model Benckmarking*
         * sklearn accuracy - 94.3%
         * Custom code accuracy - 94.3%
+    ![confusion matrix heatmap](https://github.com/DhatchayaniL/DD/assets/88893048/41acd77b-13a7-4823-9291-d21a0949f51a)
 
 5. **Rain in australia - Logistic regression**
     1. *Data cleaning*
