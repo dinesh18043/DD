@@ -61,6 +61,7 @@ __Classification__
         * Did principal component analysis and reduces its dimentionality which increases correlation between v1 to v28 columns
         * Transaction amount is higher in 0 to 2000
         * Used robust scalar for normalization
+   ![distribution plot](https://github.com/DhatchayaniL/DD/assets/88893048/4c4eeb04-4641-49c5-8724-09c8c1e58df9)
     3. *Model Building*
         * K-Nearest Neightbour
     4. *Model Benckmarking*
