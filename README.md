@@ -230,7 +230,8 @@ __Classification__
 
 **DecisionTree (from dd.dd.avacado)**
     Usage:
-    >>>  ```
+    
+      ```
         from dd.dd.avacado import DecisionTree
         model = DecisionTree(max_depth=None)
         model.fit(X_train, y_train)
@@ -238,7 +239,8 @@ __Classification__
         ```
 **AdaBoostClassifierCustom (from dd.dd.salary)**
     Usage:
-    >>>```
+    
+    >>> ```
         from dd.dd.salary import AdaBoostClassifierCustom
         model = AdaBoostClassifierCustom(n_estimators=100, random_state=1)
         model.fit(X_train, y_train)
