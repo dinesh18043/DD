@@ -185,7 +185,7 @@ __Classification__
 *__API Documentation for Your Package__*
 **LinearRegression (from dd.dd.Taxi_price_linreg)**
     Usage:
-            ```
+    >>>    ```
             from dd.dd.Taxi_price_linreg import LinearRegression
             model = LinearRegression()
             model.fit(X_train, y_train)
@@ -194,7 +194,7 @@ __Classification__
 
 **LogisticRegressionCustom (from dd.dd.rain_in_australia)**
     Usage:
-            ```
+     >>>    ```
             from dd.dd.rain_in_australia import LogisticRegressionCustom
             model = LogisticRegressionCustom(learning_rate=0.01, num_iterations=1000, verbose=True)
             model.fit(X_train, y_train)
@@ -203,7 +203,7 @@ __Classification__
 
 **MultinomialNaiveBayes (from dd.dd.email_spam_classification)**
     Usage:
-            ```
+    >>>    ```
             from dd.dd.email_spam_classification import MultinomialNaiveBayes
             model = MultinomialNaiveBayes(alpha=1.0)
             model.fit(X_train, y_train)
@@ -212,7 +212,7 @@ __Classification__
 
 **KNNClassifier (from dd.dd.credit_car_spam)**
     Usage:
-            ```
+    >>>    ```
             from dd.dd.credit_car_spam import KNNClassifier
             model = KNNClassifier(k=3)
             model.fit(X_train, y_train)
@@ -221,7 +221,7 @@ __Classification__
 
 **RandomForestRegressor (from dd.dd.car_price_predict)**
     Usage:
-            ```python
+    >>>   ```python
             from dd.dd.car_price_predict import RandomForestRegressor
             model = RandomForestRegressor(n_estimators=100, max_depth=5, min_samples_split=2, min_samples_leaf=1)
             model.fit(X_train, y_train)
@@ -230,7 +230,7 @@ __Classification__
 
 **DecisionTree (from dd.dd.avacado)**
     Usage:
-        ```
+    >>>  ```
         from dd.dd.avacado import DecisionTree
         model = DecisionTree(max_depth=None)
         model.fit(X_train, y_train)
@@ -238,7 +238,7 @@ __Classification__
         ```
 **AdaBoostClassifierCustom (from dd.dd.salary)**
     Usage:
-        ```
+    >>> ```
         from dd.dd.salary import AdaBoostClassifierCustom
         model = AdaBoostClassifierCustom(n_estimators=100, random_state=1)
         model.fit(X_train, y_train)
