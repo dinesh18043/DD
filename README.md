@@ -248,7 +248,7 @@ __Classification__
 **XGBoostClassifier (from dd.dd.movies_hit_classification)**
     Usage:
     
-      >>>  ```
+      >>> ```
          from dd.dd.movies_hit_classification import XGBoostClassifier
          model = XGBoostClassifier()
          model.fit(X_train, y_train)
