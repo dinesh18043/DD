@@ -1,3 +1,8 @@
+# ML Models
+============
+
+
+
 # Regression:
 1. **Avocado price prediction - Decision tree regressor**
     1. *Data cleaning*
@@ -182,7 +187,7 @@ __Classification__
         * Custom code accuracy - 81.7%
       
 ## API Documentation for Your Package
-### LinearRegression (from dd.dd.Taxi_price_linreg)
+### LinearRegression
 Usage:
     
             from dd.dd.Taxi_price_linreg import LinearRegression
@@ -191,7 +196,7 @@ Usage:
             predictions = model.predict(X_test)
             
 
-### LogisticRegressionCustom (from dd.dd.rain_in_australia)
+### LogisticRegressionCustom
 Usage:
 
      
@@ -201,7 +206,7 @@ Usage:
             predictions = model.predict(X_test)
            
 
-### MultinomialNaiveBayes (from dd.dd.email_spam_classification)
+### MultinomialNaiveBayes
 Usage:
     
     
@@ -211,7 +216,7 @@ Usage:
             predictions = model.predict(X_test)
            
 
-### KNNClassifier (from dd.dd.credit_car_spam)
+### KNNClassifier
 Usage:
 
     
@@ -221,7 +226,7 @@ Usage:
             predictions = model.predict(X_test)
          
 
-### RandomForestRegressor (from dd.dd.car_price_predict)
+### RandomForestRegressor
 Usage:
 
     
@@ -231,7 +236,7 @@ Usage:
             predictions = model.predict(X_test)
           
 
-### DecisionTree (from dd.dd.avacado)
+### DecisionTree
 Usage:
     
      
@@ -241,7 +246,7 @@ Usage:
         predictions = model.predict(X_test)
 
        
-### AdaBoostClassifierCustom (from dd.dd.salary)
+### AdaBoostClassifierCustom
 Usage:
     
     
@@ -251,7 +256,7 @@ Usage:
         predictions = model.predict(X_test)
       
 
-### XGBoostClassifier (from dd.dd.movies_hit_classification) 
+### XGBoostClassifier
 Usage:
     
      
