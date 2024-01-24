@@ -251,7 +251,7 @@ Usage:
         predictions = model.predict(X_test)
       
 
-### XGBoostClassifier (from dd.dd.movies_hit_classification)### 
+### XGBoostClassifier (from dd.dd.movies_hit_classification) 
 Usage:
     
      
