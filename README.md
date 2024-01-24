@@ -238,7 +238,7 @@ __Classification__
         ```
 **AdaBoostClassifierCustom (from dd.dd.salary)**
     Usage:
-    >>> ```
+    >>>```
         from dd.dd.salary import AdaBoostClassifierCustom
         model = AdaBoostClassifierCustom(n_estimators=100, random_state=1)
         model.fit(X_train, y_train)
