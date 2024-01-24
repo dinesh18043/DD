@@ -2,10 +2,10 @@
 ---
 
 ## Table of contents 
-> Avacado price prediction - Regression -> [Avacado](https://github.com/DhatchayaniL/DD/blob/a37d75a34adce9acec806cc48ddd8fe28f4d5d3e/README.md?plain=1#L7) 
+> Avacado price prediction - Regression -> [Avacado](#Avocado price prediction - Decision tree regressor) 
 
 # Regression:
-1. **Avocado price prediction - Decision tree regressor**
+1. ### Avocado price prediction - Decision tree regressor
     1. *Data cleaning*
         * No null values
         * No duplicates
